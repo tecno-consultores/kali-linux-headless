@@ -17,14 +17,13 @@ services:
     restart: unless-stopped
     environment:
       - POSTGRES_USER=user
-      - POSTGRES_PASSWORD=s2dE7uCADCK1zJCfHODicc6oLaLjBdsq
+      - POSTGRES_PASSWORD=s2dE7uCADCK1zJCfHODicc6oLaLjBdsq #change me
       - POSTGRES_DB=kali
+      - TZ=America/Caracas
     ports:
       - 5432:5432
     volumes:
       - ./postgres:/var/lib/postgresql/data
-      - /etc/timezone:/etc/timezone:ro
-      - /etc/localtime:/etc/localtime:ro
     healthcheck:
       test: ['CMD-SHELL', 'pg_isready -h localhost -U user -d kali']
       start_period: 5s
