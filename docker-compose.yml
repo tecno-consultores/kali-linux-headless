@@ -8,3 +8,26 @@ services:
     tty: true
     privileged: true
     network_mode: host
+
+  postgres:
+    image: postgres:17.6
+    hostname: postgres
+    container_name: postgres
+    pull_policy: always
+    restart: unless-stopped
+    environment:
+      - POSTGRES_USER=user
+      - POSTGRES_PASSWORD=s2dE7uCADCK1zJCfHODicc6oLaLjBdsq
+      - POSTGRES_DB=kali
+    ports:
+      - 5432:5432
+    volumes:
+      - ./postgres:/var/lib/postgresql/data
+      - /etc/timezone:/etc/timezone:ro
+      - /etc/localtime:/etc/localtime:ro
+    healthcheck:
+      test: ['CMD-SHELL', 'pg_isready -h localhost -U ${POSTGRES_USER} -d ${POSTGRES_DB}']
+      start_period: 5s
+      interval: 5s
+      timeout: 5s
+      retries: 10
