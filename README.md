@@ -1,6 +1,6 @@
 # kali-linux-headless
 
-A kali-linux-rolling headkess docker image.
+A kali-linux-rolling headless docker image.
 
 List of installed packages:
 
