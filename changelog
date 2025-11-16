@@ -1,4 +1,16 @@
-commit 05b1856cb9a2f6979fdde5483a4c038c813bf768 (HEAD -> main, origin/main, origin/HEAD)
+commit 44885af33dd3bb57c35f91deaa574051e225b3e0 (HEAD -> main, origin/main, origin/HEAD)
+Author: Jesus Palencia <sinfallas@gmail.com>
+Date:   Sun Nov 16 11:27:10 2025 -0400
+
+    * docker compose
+
+commit 24b5595d2055cddcaa909fbe948d70f27797d3d7
+Author: Jesus Palencia <sinfallas@gmail.com>
+Date:   Sun Nov 16 11:07:49 2025 -0400
+
+    * changelog
+
+commit 05b1856cb9a2f6979fdde5483a4c038c813bf768
 Author: Jesus Palencia <sinfallas@gmail.com>
 Date:   Sun Nov 16 11:07:35 2025 -0400
 
