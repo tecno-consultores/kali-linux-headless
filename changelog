@@ -1,4 +1,16 @@
-commit dda72ebe2738551e8122faa8436f224c096583c7 (HEAD -> main, origin/main, origin/HEAD)
+commit 05b1856cb9a2f6979fdde5483a4c038c813bf768 (HEAD -> main, origin/main, origin/HEAD)
+Author: Jesus Palencia <sinfallas@gmail.com>
+Date:   Sun Nov 16 11:07:35 2025 -0400
+
+    * dividir en capas
+
+commit eca33b0d72f732a07be9d3158708af304f8a4684
+Author: Jesus Palencia <sinfallas@gmail.com>
+Date:   Sun Nov 16 10:34:06 2025 -0400
+
+    * changelog
+
+commit dda72ebe2738551e8122faa8436f224c096583c7
 Author: Jesus Palencia <sinfallas@gmail.com>
 Date:   Sun Nov 16 10:33:44 2025 -0400
 
