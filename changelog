@@ -1,4 +1,30 @@
-commit 96b57bd06a38a8f3da1a02342fa09b4db736a4e4 (HEAD -> main, origin/main)
+commit dda72ebe2738551e8122faa8436f224c096583c7 (HEAD -> main, origin/main, origin/HEAD)
+Author: Jesus Palencia <sinfallas@gmail.com>
+Date:   Sun Nov 16 10:33:44 2025 -0400
+
+    * nginx para que quede corriendo y otras utilidades
+
+commit 1e294ff456afb918b346a563bc791c9324bc22e0
+Author: Jesús Palencia <sinfallas@gmail.com>
+Date:   Sun Nov 16 09:53:30 2025 -0400
+
+    Update README with Docker image link
+    
+    Added a section for obtaining the Docker image.
+
+commit 4f2b19857b050ebb2edc6f1465342866db4fa318
+Author: Jesús Palencia <sinfallas@gmail.com>
+Date:   Sun Nov 16 09:52:14 2025 -0400
+
+    Add README with project description and packages list
+
+commit 506c3c0b19268d33f81be02f85f1a931d4c04168
+Author: Jesus Palencia <sinfallas@gmail.com>
+Date:   Sat Nov 15 19:41:49 2025 -0400
+
+    * changelog
+
+commit 96b57bd06a38a8f3da1a02342fa09b4db736a4e4
 Author: Jesus Palencia <sinfallas@gmail.com>
 Date:   Sat Nov 15 19:41:40 2025 -0400
 
