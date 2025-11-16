@@ -3,7 +3,7 @@ services:
     image: sinfallas/kali-linux-headless:latest
     container_name: kali
     hostname: kali
-    restart: always
+    restart: unless-stopped
     pull_policy: always
     tty: true
     privileged: true
