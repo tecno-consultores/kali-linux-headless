@@ -1,0 +1,10 @@
+services:
+  kali:
+    image: sinfallas/kali-linux-headless:latest
+    container_name: kali
+    hostname: kali
+    restart: always
+    pull_policy: always
+    tty: true
+    privileged: true
+    network_mode: host
