@@ -1,6 +1,6 @@
 FROM kalilinux/kali-rolling
 LABEL maintainer="Jesus Palencia sinfallas@gmail.com"
-LABEL build_date="2025-11-15"
+LABEL build_date="2026-01-18"
 ENV DEBIAN_FRONTEND="noninteractive"
 RUN apt update && apt -y dist-upgrade && apt -y install nginx libnginx-mod-stream nano apt-utils curl git man-db less locate lsof socat ssh-client dnsutils telnet tmux unzip vim zip && apt clean && apt -y autoremove && rm -rf /var/lib/{apt,dpkg,cache,log}
 RUN apt update && apt -y install kali-linux-headless && apt clean && apt -y autoremove && rm -rf /var/lib/{apt,dpkg,cache,log}
