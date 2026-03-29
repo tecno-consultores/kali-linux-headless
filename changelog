@@ -1,163 +1,175 @@
-commit c0228877b685d9e9833e7629e2d7db5305364f86 (HEAD -> main, origin/main, origin/HEAD)
-Author: Jesus Palencia <sinfallas@gmail.com>
-Date:   Sun Jan 18 10:39:12 2026 -0400
-
-    * bugfix
-
-commit 92d6a902f5d015a516ee65cee31cbb2164dc55f0
-Author: Jesus Palencia <sinfallas@gmail.com>
-Date:   Sat Jan 17 10:41:41 2026 -0400
-
-    * changelog
-
-commit 56652fc702138a417b016c89122474b32c614b2d
-Author: Jesus Palencia <sinfallas@gmail.com>
-Date:   Sat Jan 17 10:41:30 2026 -0400
-
-    * build script
-
-commit 9738a288c4ccca6c70768b20375c5127d4a1b8ae
-Author: Jesus Palencia <sinfallas@gmail.com>
-Date:   Sun Dec 7 13:57:41 2025 -0400
-
-    * changelog
-
-commit d854d74bd2d877c7aa15b7b5f778fbb9960ece36
-Author: Jesus Palencia <sinfallas@gmail.com>
-Date:   Sun Dec 7 13:57:32 2025 -0400
-
-    * paquetes
-
-commit a396a7687e9dd9178af008851abb7e19d57efc38
-Author: Jesus Palencia <sinfallas@gmail.com>
-Date:   Sun Nov 16 13:01:22 2025 -0400
-
-    * changelog
-
-commit 8d100d2f7afbb7120e0cdbef02903f08473898ce
-Author: Jesus Palencia <sinfallas@gmail.com>
-Date:   Sun Nov 16 13:01:15 2025 -0400
-
-    * comando
-
-commit 3b35d8fad594bde7bd14bed35faea3f4ec6aad31
-Author: Jesus Palencia <sinfallas@gmail.com>
-Date:   Sun Nov 16 12:29:03 2025 -0400
-
-    * changelog
-
-commit 8264571faca4c588828e73a66d2607b37825def1
-Author: Jesus Palencia <sinfallas@gmail.com>
-Date:   Sun Nov 16 12:28:55 2025 -0400
-
-    * timezone
-
-commit 0a0a5f4e5e26be778e07a5bbb388edc99cf9e45f
-Author: Jesus Palencia <sinfallas@gmail.com>
-Date:   Sun Nov 16 12:25:05 2025 -0400
-
-    * changelog
-
-commit 2b25d788ecc74ac4cfee654b4140c007482054bf
-Author: Jesus Palencia <sinfallas@gmail.com>
-Date:   Sun Nov 16 12:24:59 2025 -0400
-
-    * bugfix
-
-commit 4d1f20ecc213ce3d97335bd7863ec3df60c6cc82
-Author: Jesus Palencia <sinfallas@gmail.com>
-Date:   Sun Nov 16 12:05:15 2025 -0400
-
-    * changelog
-
-commit fcb3e0f8a1edfb5edbca1d396a16405882905834
-Author: Jesus Palencia <sinfallas@gmail.com>
-Date:   Sun Nov 16 12:05:07 2025 -0400
-
-    * postgres
-
-commit 510f6b42cf791b7ce0d82ac5183180280ad1e1be
-Author: Jesús Palencia <sinfallas@gmail.com>
-Date:   Sun Nov 16 11:56:59 2025 -0400
-
-    Update docker-compose.yml
-
-commit 8eb63ddf5de1eddbebcf04f20674492b2449037d
-Author: Jesús Palencia <sinfallas@gmail.com>
-Date:   Sun Nov 16 11:53:49 2025 -0400
-
-    Fix typo in README description
-
-commit 3b19279d705b81f01e1a56a9f68bd2c561abc83e
-Author: Jesús Palencia <sinfallas@gmail.com>
-Date:   Sun Nov 16 11:45:49 2025 -0400
-
-    Fix typo in README description
-
-commit cba7207a90bfa617673c0ee0550af1ca46589fec
-Author: Jesús Palencia <sinfallas@gmail.com>
-Date:   Sun Nov 16 11:44:33 2025 -0400
-
-    Update description of the Kali Linux image
-
-commit 0daaf1911e0ebaae815f6ed00940b3f93bc50a4a
-Author: Jesus Palencia <sinfallas@gmail.com>
-Date:   Sun Nov 16 11:27:19 2025 -0400
-
-    * changelog
-
-commit 44885af33dd3bb57c35f91deaa574051e225b3e0
-Author: Jesus Palencia <sinfallas@gmail.com>
-Date:   Sun Nov 16 11:27:10 2025 -0400
-
-    * docker compose
-
-commit 24b5595d2055cddcaa909fbe948d70f27797d3d7
-Author: Jesus Palencia <sinfallas@gmail.com>
-Date:   Sun Nov 16 11:07:49 2025 -0400
-
-    * changelog
-
-commit 05b1856cb9a2f6979fdde5483a4c038c813bf768
-Author: Jesus Palencia <sinfallas@gmail.com>
-Date:   Sun Nov 16 11:07:35 2025 -0400
-
-    * dividir en capas
-
-commit eca33b0d72f732a07be9d3158708af304f8a4684
-Author: Jesus Palencia <sinfallas@gmail.com>
-Date:   Sun Nov 16 10:34:06 2025 -0400
-
-    * changelog
-
-commit dda72ebe2738551e8122faa8436f224c096583c7
-Author: Jesus Palencia <sinfallas@gmail.com>
-Date:   Sun Nov 16 10:33:44 2025 -0400
-
-    * nginx para que quede corriendo y otras utilidades
-
-commit 1e294ff456afb918b346a563bc791c9324bc22e0
-Author: Jesús Palencia <sinfallas@gmail.com>
-Date:   Sun Nov 16 09:53:30 2025 -0400
-
-    Update README with Docker image link
-    
-    Added a section for obtaining the Docker image.
-
-commit 4f2b19857b050ebb2edc6f1465342866db4fa318
-Author: Jesús Palencia <sinfallas@gmail.com>
-Date:   Sun Nov 16 09:52:14 2025 -0400
-
-    Add README with project description and packages list
-
-commit 506c3c0b19268d33f81be02f85f1a931d4c04168
-Author: Jesus Palencia <sinfallas@gmail.com>
-Date:   Sat Nov 15 19:41:49 2025 -0400
-
-    * changelog
-
-commit 96b57bd06a38a8f3da1a02342fa09b4db736a4e4
-Author: Jesus Palencia <sinfallas@gmail.com>
-Date:   Sat Nov 15 19:41:40 2025 -0400
-
-    * primer commit
+* commit b2e4f10aa1173cabc2fc8e111d60b39b8c0f82cc (HEAD -> main, origin/main, origin/HEAD)
+| Author: Jesus Palencia <sinfallas@gmail.com>
+| Date:   Sun Mar 29 18:14:47 2026 -0400
+| 
+|     * armv7
+| 
+* commit 96e1f757de8d4c997bb6f58dfe4411572cdfcefc
+| Author: Jesus Palencia <sinfallas@gmail.com>
+| Date:   Sun Jan 18 10:39:19 2026 -0400
+| 
+|     * changelog
+| 
+* commit c0228877b685d9e9833e7629e2d7db5305364f86
+| Author: Jesus Palencia <sinfallas@gmail.com>
+| Date:   Sun Jan 18 10:39:12 2026 -0400
+| 
+|     * bugfix
+| 
+* commit 92d6a902f5d015a516ee65cee31cbb2164dc55f0
+| Author: Jesus Palencia <sinfallas@gmail.com>
+| Date:   Sat Jan 17 10:41:41 2026 -0400
+| 
+|     * changelog
+| 
+* commit 56652fc702138a417b016c89122474b32c614b2d
+| Author: Jesus Palencia <sinfallas@gmail.com>
+| Date:   Sat Jan 17 10:41:30 2026 -0400
+| 
+|     * build script
+| 
+* commit 9738a288c4ccca6c70768b20375c5127d4a1b8ae
+| Author: Jesus Palencia <sinfallas@gmail.com>
+| Date:   Sun Dec 7 13:57:41 2025 -0400
+| 
+|     * changelog
+| 
+* commit d854d74bd2d877c7aa15b7b5f778fbb9960ece36
+| Author: Jesus Palencia <sinfallas@gmail.com>
+| Date:   Sun Dec 7 13:57:32 2025 -0400
+| 
+|     * paquetes
+| 
+* commit a396a7687e9dd9178af008851abb7e19d57efc38
+| Author: Jesus Palencia <sinfallas@gmail.com>
+| Date:   Sun Nov 16 13:01:22 2025 -0400
+| 
+|     * changelog
+| 
+* commit 8d100d2f7afbb7120e0cdbef02903f08473898ce
+| Author: Jesus Palencia <sinfallas@gmail.com>
+| Date:   Sun Nov 16 13:01:15 2025 -0400
+| 
+|     * comando
+| 
+* commit 3b35d8fad594bde7bd14bed35faea3f4ec6aad31
+| Author: Jesus Palencia <sinfallas@gmail.com>
+| Date:   Sun Nov 16 12:29:03 2025 -0400
+| 
+|     * changelog
+| 
+* commit 8264571faca4c588828e73a66d2607b37825def1
+| Author: Jesus Palencia <sinfallas@gmail.com>
+| Date:   Sun Nov 16 12:28:55 2025 -0400
+| 
+|     * timezone
+| 
+* commit 0a0a5f4e5e26be778e07a5bbb388edc99cf9e45f
+| Author: Jesus Palencia <sinfallas@gmail.com>
+| Date:   Sun Nov 16 12:25:05 2025 -0400
+| 
+|     * changelog
+| 
+* commit 2b25d788ecc74ac4cfee654b4140c007482054bf
+| Author: Jesus Palencia <sinfallas@gmail.com>
+| Date:   Sun Nov 16 12:24:59 2025 -0400
+| 
+|     * bugfix
+| 
+* commit 4d1f20ecc213ce3d97335bd7863ec3df60c6cc82
+| Author: Jesus Palencia <sinfallas@gmail.com>
+| Date:   Sun Nov 16 12:05:15 2025 -0400
+| 
+|     * changelog
+| 
+* commit fcb3e0f8a1edfb5edbca1d396a16405882905834
+| Author: Jesus Palencia <sinfallas@gmail.com>
+| Date:   Sun Nov 16 12:05:07 2025 -0400
+| 
+|     * postgres
+| 
+* commit 510f6b42cf791b7ce0d82ac5183180280ad1e1be
+| Author: Jesús Palencia <sinfallas@gmail.com>
+| Date:   Sun Nov 16 11:56:59 2025 -0400
+| 
+|     Update docker-compose.yml
+| 
+* commit 8eb63ddf5de1eddbebcf04f20674492b2449037d
+| Author: Jesús Palencia <sinfallas@gmail.com>
+| Date:   Sun Nov 16 11:53:49 2025 -0400
+| 
+|     Fix typo in README description
+| 
+* commit 3b19279d705b81f01e1a56a9f68bd2c561abc83e
+| Author: Jesús Palencia <sinfallas@gmail.com>
+| Date:   Sun Nov 16 11:45:49 2025 -0400
+| 
+|     Fix typo in README description
+| 
+* commit cba7207a90bfa617673c0ee0550af1ca46589fec
+| Author: Jesús Palencia <sinfallas@gmail.com>
+| Date:   Sun Nov 16 11:44:33 2025 -0400
+| 
+|     Update description of the Kali Linux image
+| 
+* commit 0daaf1911e0ebaae815f6ed00940b3f93bc50a4a
+| Author: Jesus Palencia <sinfallas@gmail.com>
+| Date:   Sun Nov 16 11:27:19 2025 -0400
+| 
+|     * changelog
+| 
+* commit 44885af33dd3bb57c35f91deaa574051e225b3e0
+| Author: Jesus Palencia <sinfallas@gmail.com>
+| Date:   Sun Nov 16 11:27:10 2025 -0400
+| 
+|     * docker compose
+| 
+* commit 24b5595d2055cddcaa909fbe948d70f27797d3d7
+| Author: Jesus Palencia <sinfallas@gmail.com>
+| Date:   Sun Nov 16 11:07:49 2025 -0400
+| 
+|     * changelog
+| 
+* commit 05b1856cb9a2f6979fdde5483a4c038c813bf768
+| Author: Jesus Palencia <sinfallas@gmail.com>
+| Date:   Sun Nov 16 11:07:35 2025 -0400
+| 
+|     * dividir en capas
+| 
+* commit eca33b0d72f732a07be9d3158708af304f8a4684
+| Author: Jesus Palencia <sinfallas@gmail.com>
+| Date:   Sun Nov 16 10:34:06 2025 -0400
+| 
+|     * changelog
+| 
+* commit dda72ebe2738551e8122faa8436f224c096583c7
+| Author: Jesus Palencia <sinfallas@gmail.com>
+| Date:   Sun Nov 16 10:33:44 2025 -0400
+| 
+|     * nginx para que quede corriendo y otras utilidades
+| 
+* commit 1e294ff456afb918b346a563bc791c9324bc22e0
+| Author: Jesús Palencia <sinfallas@gmail.com>
+| Date:   Sun Nov 16 09:53:30 2025 -0400
+| 
+|     Update README with Docker image link
+|     
+|     Added a section for obtaining the Docker image.
+| 
+* commit 4f2b19857b050ebb2edc6f1465342866db4fa318
+| Author: Jesús Palencia <sinfallas@gmail.com>
+| Date:   Sun Nov 16 09:52:14 2025 -0400
+| 
+|     Add README with project description and packages list
+| 
+* commit 506c3c0b19268d33f81be02f85f1a931d4c04168
+| Author: Jesus Palencia <sinfallas@gmail.com>
+| Date:   Sat Nov 15 19:41:49 2025 -0400
+| 
+|     * changelog
+| 
+* commit 96b57bd06a38a8f3da1a02342fa09b4db736a4e4
+  Author: Jesus Palencia <sinfallas@gmail.com>
+  Date:   Sat Nov 15 19:41:40 2025 -0400
+  
+      * primer commit
