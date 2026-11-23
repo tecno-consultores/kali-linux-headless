@@ -1,5 +1,7 @@
 # kali-linux-headless
 
+ [![Descargas de Docker](https://img.shields.io/docker/pulls/sinfallas/kali-linux-headless?style=flat&logo=docker&color=blue)](https://hub.docker.com/r/sinfallas/kali-linux-headless)
+
 A kali-linux-rolling headless docker image.
 
 List of installed packages:
